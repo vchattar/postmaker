@@ -1,16 +1,9 @@
 [
     {"title": "Makar Sankranti", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/wedding.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Makar Sankranti.jpg?raw=true"},
     {"title": "Republic Day", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/business.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Republic Day.jpg?raw=true"},
-    {"title": "TEXT EFFECTS", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/text-effect.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/text.png?raw=true"},
-    {"title": "VIDEO THUMBNAIL", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/thumbnail.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/thumbnail.png?raw=true"},
-    {"title": "BROUCHER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/brochure.png?raw=true"},
-    {"title": "BANNER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/banner.png?raw=true"},
-    {"title": "CV RESUME", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/cv.png?raw=true"},
-    {"title": "SOCIAL TEMPLATE", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/social.png?raw=true"},
-    {"title": "BOOK COVER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/book.png?raw=true"},
-    {"title": "MAGAZINES", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/magazine.png?raw=true"},
-    {"title": "POSTER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/poster.png?raw=true"},
-    {"title": "Photo Effect", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/photo-effect.png?raw=true"},
-    {"title": "T-SHIRTS", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/tshirt.png?raw=true"},
-    {"title": "ALBUM COVER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/album-cover.png?raw=true"}
+    {"title": "Indian Army Day", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/text-effect.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/Indian Army Day.jpg?raw=true"},
+    {"title": "World Cancer Day", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/thumbnail.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/World Cancer Day.jpg?raw=true"},
+    {"title": "Maha Shivratri", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/Maha Shivratri.jpg?raw=true"},
+    {"title": "Ramnavami", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/Ramnavami.jpg?raw=true"},
+    {"title": "Mahavir Jayanti", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/Mahavir Jayanti.jpg?raw=true"}
 ]
