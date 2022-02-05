@@ -1,6 +1,6 @@
 [
-    {"title": "Makar Sankranti", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/wedding.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Makar Sankranti.png?raw=true"},
-    {"title": "Republic Day", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/business.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Republic Day.png?raw=true"},
+    {"title": "Makar Sankranti", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/wedding.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Makar Sankranti.json?raw=true"},
+    {"title": "Republic Day", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/business.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Republic Day.json?raw=true"},
     {"title": "TEXT EFFECTS", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/text-effect.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/text.png?raw=true"},
     {"title": "VIDEO THUMBNAIL", "file": "https://raw.githubusercontent.com/vchattar/graphic/main/v1/thumbnail.json", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/thumbnail.png?raw=true"},
     {"title": "BROUCHER", "file": "", "image": "https://raw.githubusercontent.com/vchattar/graphic/main/category/brochure.png?raw=true"},
