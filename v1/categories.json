@@ -5,7 +5,7 @@
     {"title": "World Cancer Day", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/cancerday.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/World Cancer Day.jpg?raw=true"},
     {"title": "Maha Shivratri", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/shivratri.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Maha Shivratri.jpg?raw=true"},
     {"title": "Ramnavami", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/ramnavami.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Ramnavami.jpg?raw=true"},
-    {"title": "Mahavir Jayanti", "file": "", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Mahavir Jayanti.jpg?raw=true"},
+    {"title": "Mahavir Jayanti", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/mahavir.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Mahavir Jayanti.jpg?raw=true"},
     {"title": "Hanuman Jayanti", "file": "", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Hanuman Jayanti.jpg?raw=true"},
     {"title": "Rathyatra", "file": "", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Rathyatra.jpg?raw=true"},
     {"title": "Guru Purnima", "file": "", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Guru Purnima.jpg?raw=true"},
