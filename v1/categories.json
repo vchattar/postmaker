@@ -50,5 +50,20 @@
         {"title": "Indian Navy Day", "active_date": "2022-12-01", "festival_date": "2022-12-04", "end_date": "2022-12-04", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/navyday.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/Indian Navy Day.jpg?raw=true"},
         {"title": "National Farmers Day", "active_date": "2022-12-19", "festival_date": "2022-12-23", "end_date": "2022-12-23", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/farmerday.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/National Farmers Day.jpg?raw=true"},
         {"title": "New Year", "active_date": "2022-12-25", "festival_date": "2022-12-31", "end_date": "2022-12-31", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/newyear.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/New Year.jpg?raw=true"}
+    ],
+    "general": [
+        {"title": "Good Morning", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Good Night", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Good Evening", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Hindi Quotes", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "English Quotes", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Great Personalities", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Business Ethics", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Gods Quotes", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Business News", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Farmers", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Motivation", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "News", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"},
+        {"title": "Leader Quotes", "file": "https://raw.githubusercontent.com/vchattar/postmaker/main/v1/morning.json", "image": "https://raw.githubusercontent.com/vchattar/postmaker/main/category/morning.jpg?raw=true"}
     ]
 }
